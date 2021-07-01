@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40028f6508e6c76498cf76cb22ef0caa, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 6a4ed4c83ccd7e246a3a200ab891a80b, type: 3}
+    answer: TABLE
+  - questionImage: {fileID: 21300000, guid: 9c2d4a473276fdd4ca44006ed4587319, type: 3}
+    answer: DOOR
+  - questionImage: {fileID: 21300000, guid: f2e90862db6bece4995aaa0040402b5b, type: 3}
+    answer: BAG
+  - questionImage: {fileID: 21300000, guid: 2118763dcaf99a642bf4982072429b26, type: 3}
+    answer: PENCIL
+  - questionImage: {fileID: 21300000, guid: a2b8f2911d0518140af92369a3897529, type: 3}
+    answer: BIRD
+  - questionImage: {fileID: 21300000, guid: a69b4d51e26586d4994e81a64685ad0e, type: 3}
+    answer: HAMMER
+  - questionImage: {fileID: 21300000, guid: adb152a2f10074841979739f255342b5, type: 3}
+    answer: MANGO
+  - questionImage: {fileID: 21300000, guid: efdadba10cf34664bbeb374bc1a12f83, type: 3}
+    answer: HANDS
+  - questionImage: {fileID: 21300000, guid: 3c65b0927483a7e47a603e0d3e99d875, type: 3}
+    answer: LION
+  - questionImage: {fileID: 21300000, guid: d3d9f3013e1940545b7d917953389bb9, type: 3}
+    answer: PARROT
